@@ -1,24 +1,17 @@
-﻿# [cortex A35](https://github.com/mcuyun/CA35) 
-
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
-
-#### 归属：[cortex A系列](https://github.com/mcuyun/CA)
-#### [关于悠云](https://github.com/mcuyun)可访问 www.mcuyun.com
-
-## [描述](https://github.com/mcuyun/CA35/wiki) 
-
-入门级cortex A系列处理器，拥有强大的计算能力和性价比
-
-### [组成](mcuyun/)
+﻿# [cortex A35](https://github.com/sochub/CA35) 
+[![sites](SoC/qitas.png)](http://www.qitas.cn) 
+#### 归属：[cortex A](https://github.com/sochub/CA)
 
 
-#### [RK3308](https://github.com/mcuyun/RK3308)
+## [描述](https://github.com/sochub/CA35/wiki) 
 
-基于A35单核的应用处理器，拥有极高的性价比
+[cortex A35](https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-A35) 基于ARMv8-A 64架构
 
----
+### [收录产品](https://github.com/sochub)
 
-###  [悠云，为嵌入式](http://www.mcuyun.com)   
-###  qitas@qitas.cn
+* [rockchips](https://github.com/sochub/rockchips)
+    * [RK3326](https://github.com/sochub/RK3326)
+    * [RK1808](https://github.com/sochub/RK1808)
+    * [PX30](https://github.com/sochub/PX30)
 
-
+##  [SoC资源平台](http://www.qitas.cn)
